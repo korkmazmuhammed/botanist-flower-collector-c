@@ -1,0 +1,14 @@
+Size of the game: 10 X 10
+Collected flowers: 6
+Not used bottle number: 44
+Botanist coordinates: (8,1)
+T,T,T,T,T,T,T,T,T,T
+ , , , ,T,T, , , ,T
+T, ,T, , , , ,T, ,T
+T, ,T,T,T,T, ,T, ,T
+T, ,T, , , , ,T,T,T
+T, ,T, ,T, , , , ,T
+T, ,T, ,T,T,T,T,T,T
+T, ,T, , , , , , ,T
+T,B,T,T,T,T, ,T, ,T
+T, , ,T, ,T, ,T,T,T
